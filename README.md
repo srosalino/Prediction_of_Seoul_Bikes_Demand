@@ -16,3 +16,7 @@ In short, the work is considered successful if a model with generalization capac
 **Used tools**
 
 To carry out this project we had 5 2nd year Data Science students, a supervising teacher, a dataset from the UCI Machine Learning Repository, personal computers, Jupyter Notebook, Python programming language, Prezi and Django.
+
+**Full Report**
+
+The full report containing detailed explanations of the developed work, as well as the obtained results is present in the '*Script_Relatorio/Relatório_Grupo12_PACD1.pdf*' file.
