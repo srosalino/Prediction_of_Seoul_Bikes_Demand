@@ -1,14 +1,18 @@
 # Business Understanding
 
 **Introduction**
-Em 2015 foi fundado o serviço de alugueres de bicicletas Seoul Bikes que visa a promoção de um meio de locomoção sustentável para os cidadãos da Coreia do Sul. Este sistema possui estações dispersas por Seoul nas quais é possível efetuar o aluguer de bicicletas, sendo estas consideradas pontos de entrega e recolha das mesmas. Com recurso à aplicação da Seoul Bikes pode ser verificada a disponibilidade das bicicletas, algo que facilita o processo logístico associado. 
+
+In 2015, the bicycle rental service Seoul Bikes was founded, which aims to promote a sustainable means of transportation for the citizens of South Korea. This system has stations spread across Seoul where it is possible to rent bicycles, which are considered delivery and pick-up points. Using the Seoul Bikes app, the availability of bicycles can be checked, something that facilitates the associated logistical process.
 
 **Problem at hands**
-A partir de um conjunto de dados públicos referentes aos alugueres de bicicletas da companhia Seoul Bikes, juntamente com as condições meteorológicas que afetam este mesmo aluguer, o objetivo deste projeto consiste em prever o número de bicicletas necessárias a disponibilizar a cada hora de forma a tornar o serviço o mais eficiente possível.
+
+Using a set of public data relating to bicycle rentals from the company Seoul Bikes, together with the weather conditions that affect this same rental, the objective of this project is to predict the number of bicycles needed to be made available each hour in order to make the service as efficient as possible.
 
 **Criteria for Success**
-Perante esta situação é pertinente ter em conta os riscos associados, nomeadamente, a escassez de bicicletas disponibilizadas face à procura num determinado ponto de recolha. Como medidas preventivas contra tais riscos considerou-se que deveria ser estabelecida uma margem mínima de bicicletas disponíveis com o intuito de maximizar o lucro assegurando em simultâneo a disponibilidade do serviço. 
-Em suma, considera-se que o trabalho é bem sucedido caso seja obtido um modelo com capacidade de generalização e um erro de previsão mínima.
+
+Faced with this situation, it is pertinent to take into account the associated risks, namely, the scarcity of bicycles available given the demand at a given collection point. As preventive measures against such risks, it was considered that a minimum margin of available bicycles should be established with the intention of maximizing profit while simultaneously ensuring the availability of the service.
+In short, the work is considered successful if a model with generalization capacity and minimum prediction error is obtained.
 
 **Used tools**
-Para a realização deste projeto contamos com 5 alunos de 2º ano da licenciatura de Ciência de Dados, um docente supervisor, um dataset proveniente do UCI Machine Learning Repository, computadores pessoais , Jupyter Notebook, linguagem de programação Python, Prezi e Django.
+
+To carry out this project we had 5 2nd year Data Science students, a supervising teacher, a dataset from the UCI Machine Learning Repository, personal computers, Jupyter Notebook, Python programming language, Prezi and Django.
